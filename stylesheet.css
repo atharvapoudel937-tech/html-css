@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(2, 9, 38);
+    color: aliceblue;
+}
+#start{
+    background-color: black;
+    height: 40px;
+}
+#start ul{
+    font-size: 30px;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    padding: 2px;
+}
+#start li{
+    list-style: none;
+}
+#atharva {
+    display: flex;
+     flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    padding: 80px;
+   
+}
+
+#atharva img{
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+    
+}
+
+
+
+#right{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#contact{
+    text-align: center;
+}
+
+#contact ul{
+    display: flex;
+    justify-content: space-around;
+    padding: 3 px;
+    align-items: center;
+    text-align: center;
+} 
+
+
+#contact ul li{
+    list-style: none;
+}
+
+#contact img{
+    width: 50px;
+    height: 50px;
+}
+
+
