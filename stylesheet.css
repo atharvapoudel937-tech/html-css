@@ -65,5 +65,12 @@ body{
     height: 50px;
 }
 
+#phone{
+    align-items: center;
+    text-align: center;
+    margin: 50px;
+}
+
+
 
 
